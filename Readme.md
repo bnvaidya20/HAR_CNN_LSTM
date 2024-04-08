@@ -36,16 +36,6 @@ The model is a hybrid CNN-LSTM architecture enhanced with an attention mechanism
 - **Output Layer**: A softmax layer for classifying the activities into six categories.
 
 ## Results
-The loss and accuracy during the model training is as follows:
-
-![Loss and Accuracy](./images/loss_accuracy.png)
-
-The model achieved the following performance metrics:
-- **Validation Accuracy**: 97.76%
-- **Test Accuracy**: 94.98%
-
-
-## Model Performance Summary
 
 ### Training Insights
 Throughout the training process, we monitored both the loss and accuracy metrics to evaluate the model's learning progress. The following graph illustrates how the model's performance evolved over epochs:
